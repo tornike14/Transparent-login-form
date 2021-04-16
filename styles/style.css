@@ -1,0 +1,15 @@
+
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.bg-container{
+    background-image: url(./Images/body-bg-2.jpg);
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
